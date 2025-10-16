@@ -174,7 +174,15 @@ if(ob1<ob2):
     print("ob2 is less than ob1")
 else:
     print("ob1 is less than ob1")
+
+
 ```
+
+## Output
+![image](https://github.com/user-attachments/assets/761afa5a-c67e-4397-a9d7-c3779c3fa61a)
+
+## Result
+Thus,the program is executed successfully.
 # # 🐍 Python OOP: Polymorphism with Classes
 
 ## 🎯 AIM
@@ -222,8 +230,4 @@ for func in (obj_beans,obj_mango):
 ## Result
 Thus,the program is executed successfully
 
-## Output
-![image](https://github.com/user-attachments/assets/761afa5a-c67e-4397-a9d7-c3779c3fa61a)
 
-## Result
-Thus,the program is executed successfully.
